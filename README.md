@@ -18,3 +18,4 @@ Hoàn thành bài Lab 2.
 Cập nhật chức năng Đăng nhập Khách (Guest Login).
 All system diagrams (Use Case, ERD, Sequence) are completed.
 echo "- Final check for all diagrams" >> README.md
+echo "- Final submission linking all project tasks." >> README.md
