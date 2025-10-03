@@ -17,3 +17,4 @@ Hệ thống quản lý đặt phòng khách sạn cho phép:
 Hoàn thành bài Lab 2.
 Cập nhật chức năng Đăng nhập Khách (Guest Login).
 All system diagrams (Use Case, ERD, Sequence) are completed.
+echo "- Final check for all diagrams" >> README.md
