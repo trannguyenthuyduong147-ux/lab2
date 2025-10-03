@@ -14,3 +14,4 @@ Hệ thống quản lý đặt phòng khách sạn cho phép:
 - GitHub: Quản lý mã nguồn
 
 ## Trần Nguyễn Thùy Dương
+Hoàn thành bài Lab 2.
