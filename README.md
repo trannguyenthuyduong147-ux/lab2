@@ -15,3 +15,4 @@ Hệ thống quản lý đặt phòng khách sạn cho phép:
 
 ## Trần Nguyễn Thùy Dương
 Hoàn thành bài Lab 2.
+Cập nhật chức năng Đăng nhập Khách (Guest Login).
