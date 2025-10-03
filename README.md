@@ -19,3 +19,4 @@ Cập nhật chức năng Đăng nhập Khách (Guest Login).
 All system diagrams (Use Case, ERD, Sequence) are completed.
 echo "- Final check for all diagrams" >> README.md
 echo "- Final submission linking all project tasks." >> README.md
+echo "- Final submission linking all work to Jira." >> README.md
